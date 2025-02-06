@@ -15,11 +15,11 @@ namespace Presentation
             var services = new ServiceCollection();
 
             // Đăng ký các dịch vụ
-            services.AddSingleton<Login>();
-            services.AddSingleton<Form1>();
+            services.AddSingleton<BaoCao>();
+            services.AddSingleton<TaiSan>();
             services.AddSingleton<DbContexApplication>();
-            services.AddScoped<IUserRepository, UserRepository>();
-            services.AddScoped<IUserService, UserService>();
+            services.AddScoped<ITaiSanRepository, TaiSanRepository>();
+            services.AddScoped<ITaiSanService, TaiSanService>();
             services.AddAutoMapper(typeof(MappingProfile));
             return services.BuildServiceProvider();
         }

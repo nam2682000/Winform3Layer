@@ -44,11 +44,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Dtos\UserDto.cs" />
-    <Compile Include="Interfaces\IUserService.cs" />
+    <Compile Include="Dtos\TaiSanDto.cs" />
+    <Compile Include="Interfaces\ITaiSanService.cs" />
     <Compile Include="Mappers\MappingProfile.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Services\UserService.cs" />
+    <Compile Include="Services\TaiSanService.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DataAccess\DataAccess.csproj">

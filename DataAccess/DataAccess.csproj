@@ -46,14 +46,20 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DbContexApplication\DbContexApplication.cs" />
-    <Compile Include="Entities\User.cs" />
+    <Compile Include="Dtos\BaoCaoChiNhanhDto.cs" />
+    <Compile Include="Entities\TaiSan.cs" />
+    <Compile Include="Interfaces\ITaiSanRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Interfaces\IUserRepository.cs" />
-    <Compile Include="Repositories\UserRepository.cs" />
+    <Compile Include="Repositories\TaiSanRepository.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="NewFolder1\" />
+  </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DataAccess.sln" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

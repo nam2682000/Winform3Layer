@@ -1,7 +1,68 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\MyProject\\Winform\\Base3Layer\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\MyProject\\Winform\\Winform3Layer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE852307-8238-4DE2-8547-17EB2C6C4C61}|Presentation\\Presentation.csproj|d:\\myproject\\winform\\winform3layer\\presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE852307-8238-4DE2-8547-17EB2C6C4C61}|Presentation\\Presentation.csproj|solutionrelative:presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F1F01D-5C7B-4766-9E84-E376B84E4254}|DataAccess\\DataAccess.csproj|d:\\myproject\\winform\\winform3layer\\dataaccess\\repositories\\taisanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F1F01D-5C7B-4766-9E84-E376B84E4254}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\taisanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F1F01D-5C7B-4766-9E84-E376B84E4254}|DataAccess\\DataAccess.csproj|d:\\myproject\\winform\\winform3layer\\dataaccess\\interfaces\\itaisanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F1F01D-5C7B-4766-9E84-E376B84E4254}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\interfaces\\itaisanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D2C0805-47CD-4A1E-A8C0-410F2D1797F5}|BusinessLogic\\BusinessLogic.csproj|d:\\myproject\\winform\\winform3layer\\businesslogic\\services\\taisanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D2C0805-47CD-4A1E-A8C0-410F2D1797F5}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\services\\taisanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE852307-8238-4DE2-8547-17EB2C6C4C61}|Presentation\\Presentation.csproj|d:\\myproject\\winform\\winform3layer\\presentation\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE852307-8238-4DE2-8547-17EB2C6C4C61}|Presentation\\Presentation.csproj|solutionrelative:presentation\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE852307-8238-4DE2-8547-17EB2C6C4C61}|Presentation\\Presentation.csproj|d:\\myproject\\winform\\winform3layer\\presentation\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE852307-8238-4DE2-8547-17EB2C6C4C61}|Presentation\\Presentation.csproj|solutionrelative:presentation\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D2C0805-47CD-4A1E-A8C0-410F2D1797F5}|BusinessLogic\\BusinessLogic.csproj|d:\\myproject\\winform\\winform3layer\\businesslogic\\interfaces\\itaisanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D2C0805-47CD-4A1E-A8C0-410F2D1797F5}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\interfaces\\itaisanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE852307-8238-4DE2-8547-17EB2C6C4C61}|Presentation\\Presentation.csproj|d:\\myproject\\winform\\winform3layer\\presentation\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE852307-8238-4DE2-8547-17EB2C6C4C61}|Presentation\\Presentation.csproj|solutionrelative:presentation\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE852307-8238-4DE2-8547-17EB2C6C4C61}|Presentation\\Presentation.csproj|d:\\myproject\\winform\\winform3layer\\presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE852307-8238-4DE2-8547-17EB2C6C4C61}|Presentation\\Presentation.csproj|solutionrelative:presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F1F01D-5C7B-4766-9E84-E376B84E4254}|DataAccess\\DataAccess.csproj|d:\\myproject\\winform\\winform3layer\\dataaccess\\entities\\taisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F1F01D-5C7B-4766-9E84-E376B84E4254}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entities\\taisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D2C0805-47CD-4A1E-A8C0-410F2D1797F5}|BusinessLogic\\BusinessLogic.csproj|d:\\myproject\\winform\\winform3layer\\businesslogic\\mappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D2C0805-47CD-4A1E-A8C0-410F2D1797F5}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\mappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE852307-8238-4DE2-8547-17EB2C6C4C61}|Presentation\\Presentation.csproj|d:\\myproject\\winform\\winform3layer\\presentation\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FE852307-8238-4DE2-8547-17EB2C6C4C61}|Presentation\\Presentation.csproj|solutionrelative:presentation\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE852307-8238-4DE2-8547-17EB2C6C4C61}|Presentation\\Presentation.csproj|D:\\MyProject\\Winform\\Winform3Layer\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE852307-8238-4DE2-8547-17EB2C6C4C61}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE852307-8238-4DE2-8547-17EB2C6C4C61}|Presentation\\Presentation.csproj|d:\\myproject\\winform\\winform3layer\\presentation\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE852307-8238-4DE2-8547-17EB2C6C4C61}|Presentation\\Presentation.csproj|solutionrelative:presentation\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F1F01D-5C7B-4766-9E84-E376B84E4254}|DataAccess\\DataAccess.csproj|d:\\myproject\\winform\\winform3layer\\dataaccess\\dbcontexapplication\\dbcontexapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F1F01D-5C7B-4766-9E84-E376B84E4254}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dbcontexapplication\\dbcontexapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +70,204 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITaiSanService.cs",
+              "DocumentMoniker": "D:\\MyProject\\Winform\\Winform3Layer\\BusinessLogic\\Interfaces\\ITaiSanService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Interfaces\\ITaiSanService.cs",
+              "ToolTip": "D:\\MyProject\\Winform\\Winform3Layer\\BusinessLogic\\Interfaces\\ITaiSanService.cs",
+              "RelativeToolTip": "BusinessLogic\\Interfaces\\ITaiSanService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T04:05:49.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\MyProject\\Winform\\Winform3Layer\\Presentation\\Login.cs",
+              "RelativeDocumentMoniker": "Presentation\\Login.cs",
+              "ToolTip": "D:\\MyProject\\Winform\\Winform3Layer\\Presentation\\Login.cs",
+              "RelativeToolTip": "Presentation\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T04:03:29.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "D:\\MyProject\\Winform\\Winform3Layer\\Presentation\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "Presentation\\Login.Designer.cs",
+              "ToolTip": "D:\\MyProject\\Winform\\Winform3Layer\\Presentation\\Login.Designer.cs",
+              "RelativeToolTip": "Presentation\\Login.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T04:03:09.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaiSanService.cs",
+              "DocumentMoniker": "D:\\MyProject\\Winform\\Winform3Layer\\BusinessLogic\\Services\\TaiSanService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Services\\TaiSanService.cs",
+              "ToolTip": "D:\\MyProject\\Winform\\Winform3Layer\\BusinessLogic\\Services\\TaiSanService.cs",
+              "RelativeToolTip": "BusinessLogic\\Services\\TaiSanService.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAiwG8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T03:48:37.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITaiSanRepository.cs",
+              "DocumentMoniker": "D:\\MyProject\\Winform\\Winform3Layer\\DataAccess\\Interfaces\\ITaiSanRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Interfaces\\ITaiSanRepository.cs",
+              "ToolTip": "D:\\MyProject\\Winform\\Winform3Layer\\DataAccess\\Interfaces\\ITaiSanRepository.cs",
+              "RelativeToolTip": "DataAccess\\Interfaces\\ITaiSanRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T03:47:07.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaiSanRepository.cs",
+              "DocumentMoniker": "D:\\MyProject\\Winform\\Winform3Layer\\DataAccess\\Repositories\\TaiSanRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\TaiSanRepository.cs",
+              "ToolTip": "D:\\MyProject\\Winform\\Winform3Layer\\DataAccess\\Repositories\\TaiSanRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\TaiSanRepository.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAswIYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T03:43:17.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\MyProject\\Winform\\Winform3Layer\\Presentation\\Form1.cs",
+              "RelativeDocumentMoniker": "Presentation\\Form1.cs",
+              "ToolTip": "D:\\MyProject\\Winform\\Winform3Layer\\Presentation\\Form1.cs [Design]",
+              "RelativeToolTip": "Presentation\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T02:44:01.212Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\MyProject\\Winform\\Winform3Layer\\Presentation\\Login.cs",
+              "RelativeDocumentMoniker": "Presentation\\Login.cs",
+              "ToolTip": "D:\\MyProject\\Winform\\Winform3Layer\\Presentation\\Login.cs [Design]",
+              "RelativeToolTip": "Presentation\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T02:17:22.034Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\MyProject\\Winform\\Winform3Layer\\Presentation\\Form1.cs",
+              "RelativeDocumentMoniker": "Presentation\\Form1.cs",
+              "ToolTip": "D:\\MyProject\\Winform\\Winform3Layer\\Presentation\\Form1.cs",
+              "RelativeToolTip": "Presentation\\Form1.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwLAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T01:55:32.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\MyProject\\Winform\\Winform3Layer\\BusinessLogic\\Mappers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Mappers\\MappingProfile.cs",
+              "ToolTip": "D:\\MyProject\\Winform\\Winform3Layer\\BusinessLogic\\Mappers\\MappingProfile.cs",
+              "RelativeToolTip": "BusinessLogic\\Mappers\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T01:55:20.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\MyProject\\Winform\\Winform3Layer\\Presentation\\packages.config",
+              "RelativeDocumentMoniker": "Presentation\\packages.config",
+              "ToolTip": "D:\\MyProject\\Winform\\Winform3Layer\\Presentation\\packages.config",
+              "RelativeToolTip": "Presentation\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-06T01:53:18.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaiSan.cs",
+              "DocumentMoniker": "D:\\MyProject\\Winform\\Winform3Layer\\DataAccess\\Entities\\TaiSan.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Entities\\TaiSan.cs",
+              "ToolTip": "D:\\MyProject\\Winform\\Winform3Layer\\DataAccess\\Entities\\TaiSan.cs",
+              "RelativeToolTip": "DataAccess\\Entities\\TaiSan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T01:51:57.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\MyProject\\Winform\\Winform3Layer\\Presentation\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Presentation\\DependencyInjection.cs",
+              "ToolTip": "D:\\MyProject\\Winform\\Winform3Layer\\Presentation\\DependencyInjection.cs",
+              "RelativeToolTip": "Presentation\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T01:50:44.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MyProject\\Winform\\Winform3Layer\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "D:\\MyProject\\Winform\\Winform3Layer\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T01:46:40.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DbContexApplication.cs",
+              "DocumentMoniker": "D:\\MyProject\\Winform\\Winform3Layer\\DataAccess\\DbContexApplication\\DbContexApplication.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DbContexApplication\\DbContexApplication.cs",
+              "ToolTip": "D:\\MyProject\\Winform\\Winform3Layer\\DataAccess\\DbContexApplication\\DbContexApplication.cs",
+              "RelativeToolTip": "DataAccess\\DbContexApplication\\DbContexApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T01:47:28.609Z",
+              "EditorCaption": ""
             }
           ]
         }

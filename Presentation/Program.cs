@@ -17,7 +17,7 @@ namespace Presentation
             // Thiết lập DI container
             var serviceProvider = DependencyInjection.ConfigureServices();
             // Lấy MainForm từ DI container
-            var formLogin = serviceProvider.GetRequiredService<Form1>();
+            var formLogin = serviceProvider.GetRequiredService<TaiSan>();
             Application.Run(formLogin);
         }
     }
