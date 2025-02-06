@@ -9,7 +9,7 @@ namespace BusinessLogic.Mapper
         public MappingProfile()
         {
             // Định nghĩa mapping
-            CreateMap<User, UserDto>().ReverseMap();
+            //CreateMap<User, TaiSanDto>().ReverseMap();
         }
     }
 }
